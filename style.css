@@ -26,7 +26,7 @@ html, body{
     background-repeat: no-repeat;
     background-attachment: scroll;
     font-family: var(--fonte1);
-    max-width: 100%;
+    width: 100vw;
     height: auto;
 
 }
